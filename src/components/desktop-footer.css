@@ -1,0 +1,303 @@
+.desktop-footer-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #EEEEEE;
+}
+.desktop-footer-container01 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  align-self: stretch;
+  align-items: stretch;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-twounits);
+  background-color: #000000;
+}
+.desktop-footer-container02 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-footer-iscriviti-alla-nostra-newsletter {
+  color: #ffffff;
+  height: 100%;
+  align-self: flex-start;
+  font-family: Poppins;
+  line-height: 200%;
+}
+.desktop-footer-container03 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-footer-container04 {
+  flex: 0 0 auto;
+  width: 80%;
+  height: 100%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.desktop-footer-textinput {
+  flex: 1;
+  width: 75%;
+  font-size: 1.5em;
+  align-self: stretch;
+  text-align: left;
+  font-family: Poppins;
+  border-width: 0px;
+  padding-left: var(--dl-space-space-twounits);
+}
+.desktop-footer-button {
+  color: #ffffff;
+  font-size: 1.5em;
+  align-self: stretch;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 200%;
+  border-width: 0px;
+  background-color: #f8c82d;
+}
+.desktop-footer-container05 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-sixunits);
+  align-self: stretch;
+  align-items: stretch;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-twounits);
+}
+.desktop-footer-container06 {
+  flex: 0 0 auto;
+  width: 20%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-sixunits);
+  flex-direction: column;
+  justify-content: space-between;
+}
+.desktop-footer-image {
+  width: 100px;
+  object-fit: cover;
+}
+.desktop-footer-container07 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+}
+.desktop-footer-image1 {
+  width: 2em;
+  align-self: center;
+  object-fit: cover;
+}
+.desktop-footer-text {
+  font-size: 1.5em;
+  align-self: center;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 700;
+  padding-left: var(--dl-space-space-twounits);
+}
+.desktop-footer-container08 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+}
+.desktop-footer-image2 {
+  width: 2em;
+  align-self: center;
+  object-fit: cover;
+}
+.desktop-footer-text01 {
+  font-size: 1.5em;
+  align-self: center;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 700;
+  padding-left: var(--dl-space-space-twounits);
+}
+.desktop-footer-container09 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: auto;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-footer-text02 {
+  font-size: 1.5em;
+  font-family: Poppins;
+  padding-bottom: var(--dl-space-space-unit);
+}
+.desktop-footer-text03 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text04 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text05 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text06 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text07 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text08 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text09 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text10 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text11 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-container10 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: auto;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-footer-text12 {
+  font-size: 1.5em;
+  font-family: Poppins;
+  padding-bottom: var(--dl-space-space-unit);
+}
+.desktop-footer-text13 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text14 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text15 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-container11 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: auto;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-footer-text16 {
+  font-size: 1.5em;
+  font-family: Poppins;
+  padding-bottom: var(--dl-space-space-unit);
+}
+.desktop-footer-text17 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text18 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text19 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-container12 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: auto;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-footer-text20 {
+  font-size: 1.5em;
+  font-family: Poppins;
+  padding-bottom: var(--dl-space-space-unit);
+}
+.desktop-footer-text21 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text22 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text23 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-text24 {
+  font-size: 1.3em;
+  font-family: Poppins;
+  line-height: 1.6;
+}
+.desktop-footer-root-class-name1 {
+  height: auto;
+}
+@media(max-width: 991px) {
+  .desktop-footer-root-class-name1 {
+    display: none;
+  }
+}

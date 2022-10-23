@@ -1,0 +1,25 @@
+.f-o-o-t-e-r-f-i-n-a-l-51022-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center;
+}
+.f-o-o-t-e-r-f-i-n-a-l-51022-root-class-name {
+  flex: 1;
+  left: left;
+  bottom: 0px;
+  height: auto;
+  position: static;
+  align-self: center;
+}
+.f-o-o-t-e-r-f-i-n-a-l-51022-root-class-name1 {
+  flex: 1;
+  left: left;
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  align-self: center;
+}
